@@ -32,5 +32,4 @@ def break_even_tab():
     ax.set_ylabel("Rupiah")
     ax.set_title("Grafik Break-Even Point")
     ax.legend()
-    st.pyplot(fig)
-  
+    st.pyplot(fig)  
